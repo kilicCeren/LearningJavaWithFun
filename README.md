@@ -65,7 +65,7 @@ Bu depoyu yerel bilgisayarınıza klonlayın:
 **Depoyu Klonlayın:**
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/LearningJavaWithFun.git
+git clone https://github.com/kilicCeren/LearningJavaWithFun.git
 ```
 
 Projeyi IntelliJ IDEA gibi bir Java IDE'sinde açın.
