@@ -151,7 +151,7 @@ Clone this repository to your local machine:
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/LearningJavaWithFun.git
+git clone https://github.com/kilicCeren/LearningJavaWithFun.git
 ```
 
 
